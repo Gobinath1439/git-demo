@@ -1,0 +1,2 @@
+
+Be it a designer, a creator, or a developer, all deal with projects and files every day. Our primary work cycle revolves around creating a file, saving it, editing or making required changes, and saving it again.

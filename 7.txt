@@ -1,0 +1,3 @@
+Want	to	save	your	work	without	committing	the	code?	Git has	got	you	covered.	
+This	can	be	helpful	when	you	want	to	switch	branches,	but	do	not	want	to	save	
+your	work	to	your	git repository.

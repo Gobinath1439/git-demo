@@ -1,0 +1,2 @@
+git revert	<commit-id>
+<commit-id>	can	be	obtained	from	the	output	of	git log
